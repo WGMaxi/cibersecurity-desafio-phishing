@@ -3,6 +3,7 @@ Desafio Cibersecurity dio.me
 ## Ferramentas
 - Kali Linux
 - setoolkit
+
 ## Configurando o Phishing no Kali Linux
 - Acesso root:`sudo su`
 - Iniciando o setoolkit: `setoolkit`
@@ -13,3 +14,4 @@ Desafio Cibersecurity dio.me
 - Obtendo o endereço da máquina: `ifconfig`
 - URL para clone: http://www.facebook.com
 ## Resutados
+![image](https://user-images.githubusercontent.com/118560480/205387184-6c2ef258-8304-4d67-b509-89c3207ecc29.png)
